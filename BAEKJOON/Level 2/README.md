@@ -5,11 +5,11 @@ level 2 : if문
 https://www.acmicpc.net/problem/1330
 
 
-9498 시험 성적 ✔
+9498 시험 성적
 https://www.acmicpc.net/problem/9498
 
 
-2753 윤년 ✔
+2753 윤년
 https://www.acmicpc.net/problem/2753
 
 
