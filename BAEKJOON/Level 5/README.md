@@ -13,7 +13,7 @@ https://www.acmicpc.net/problem/2577
 ### 3052 나머지 ✔️
 https://www.acmicpc.net/problem/3052
 
-### 1546 평균
+### 1546 평균 ✔️
 https://www.acmicpc.net/problem/1546
 
 ### 8958 OX퀴즈
