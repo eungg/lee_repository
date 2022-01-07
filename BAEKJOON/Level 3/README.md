@@ -4,13 +4,13 @@ Level 3 : for문
 ### 2739 구구단 ✔️
 https://www.acmicpc.net/problem/2739
 
-### 10950 A+B-3 
+### 10950 A+B-3 ✔️
 https://www.acmicpc.net/problem/10950
 
 ### 8393 합 ✔️
 https://www.acmicpc.net/problem/8393
 
-### 15552 빠른 A+B 
+### 15552 빠른 A+B ✔️
 https://www.acmicpc.net/problem/15552
 
 ### 2741 N찍기 ✔️
