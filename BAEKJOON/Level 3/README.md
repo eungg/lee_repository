@@ -31,5 +31,5 @@ https://www.acmicpc.net/problem/2438
 ### 2439 별찍기 -2 ✔️
 https://www.acmicpc.net/problem/2439
 
-### 10871 X보다 작은 수
+### 10871 X보다 작은 수 ✔️
 https://www.acmicpc.net/problem/10871
