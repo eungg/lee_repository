@@ -19,10 +19,10 @@ https://www.acmicpc.net/problem/2741
 ### 2742 기찍N ✔️
 https://www.acmicpc.net/problem/2742
 
-### 11021 A+B-7 
+### 11021 A+B-7 ✔️
 https://www.acmicpc.net/problem/11021
 
-### 11022 A+B-8 
+### 11022 A+B-8 ✔️
 https://www.acmicpc.net/problem/11022
 
 ### 2438 별찍기 -1 ✔️
