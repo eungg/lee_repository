@@ -13,10 +13,10 @@ https://www.acmicpc.net/problem/10809
 ### 2675	문자열 반복 ✔️
 https://www.acmicpc.net/problem/2675
 
-### 1157	단어 공부
+### 1157	단어 공부 ✔️
 https://www.acmicpc.net/problem/1157
 
-### 1152	단어의 개수
+### 1152	단어의 개수 ✔️
 https://www.acmicpc.net/problem/1152
 
 ### 2908	상수
