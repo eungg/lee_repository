@@ -19,7 +19,7 @@ https://www.acmicpc.net/problem/1157
 ### 1152	단어의 개수 ✔️
 https://www.acmicpc.net/problem/1152
 
-### 2908	상수
+### 2908	상수 ✔️
 https://www.acmicpc.net/problem/2908
 
 ### 5622	다이얼
