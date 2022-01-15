@@ -14,7 +14,7 @@ A, B, C가 주어졌을 때, 손익분기점을 구하는 프로그램을 작성
 
 a, b, c = map(int, input().split())
 
-if B>=C:
+if b>=c:
     print(-1)
 else:
     print(int(a/(c-b)+1))
