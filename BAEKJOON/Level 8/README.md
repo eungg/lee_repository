@@ -19,7 +19,7 @@ https://www.acmicpc.net/problem/10250
 ### 2775	부녀회장이 될테야	
 https://www.acmicpc.net/problem/2775
 
-### 2839	설탕 배달 
+### 2839	설탕 배달 ✔️
 https://www.acmicpc.net/problem/2839
 
 ### 10757	큰 수 A+B 
