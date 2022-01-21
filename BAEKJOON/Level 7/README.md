@@ -22,7 +22,7 @@ https://www.acmicpc.net/problem/1152
 ### 2908	상수 ✔️
 https://www.acmicpc.net/problem/2908
 
-### 5622	다이얼
+### 5622	다이얼 ✔️
 https://www.acmicpc.net/problem/5622
 
 ### 2941	크로아티아 알파벳
