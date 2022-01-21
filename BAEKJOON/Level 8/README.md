@@ -22,7 +22,7 @@ https://www.acmicpc.net/problem/2775
 ### 2839	설탕 배달 ✔️
 https://www.acmicpc.net/problem/2839
 
-### 10757	큰 수 A+B 
+### 10757	큰 수 A+B ✔️
 https://www.acmicpc.net/problem/10757
 
 ### 1011	Fly me to the Alpha Centauri 
