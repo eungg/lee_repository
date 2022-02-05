@@ -4,7 +4,7 @@ Level 10 : 재귀
 ### 10872	팩토리얼 ✔️
 https://www.acmicpc.net/problem/10872
 
-### 10870	피보나치 수
+### 10870	피보나치 수 ✔️
 https://www.acmicpc.net/problem/10870
 
 ### 2447	별 찍기 - 10
